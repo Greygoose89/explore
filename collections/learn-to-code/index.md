@@ -1,4 +1,4 @@
----
+---MAGNUM_STRETCHER'S---;_(Smooth_Coding)_
 items:
  - 30-seconds/30-seconds-of-code
  - railsgirls/railsgirls.github.io
